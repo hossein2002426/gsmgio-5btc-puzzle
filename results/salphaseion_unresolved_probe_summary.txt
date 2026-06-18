@@ -1,0 +1,18 @@
+SalPhaseIon unresolved parts probe summary
+Part2 len=78; notable group property: L3 A1 sums -> shposnitovermmjiolsjpjsroh
+Part4 intermediate starts with btcseed; body splits odd/even 282/282; odd alphabet=bcde.
+No strong plaintext hit found for Part2 or Part4 substreams under tested base/Bifid/Vigenere/Bacon/base4 probes.
+Part10 high-confidence: anstoo -> ans too -> answer two -> secondanswer.
+Top non-P10 rows:
+P4_even	vigenere_beau_thispassword	score=4	sha8=a184b644	qtwiptalmlztykteijkkgkocgpfdjlffewlaiuwyvksplpgrocqetquyaozhgvfsbjdmgallgpxzxady
+P4_even	vigenere_beau_enter	score=3	sha8=08f3ba08	bzhurxvmuomdyhcqgcwjojqdemkeycrabmlbcgsxkxtbgfchzmmzxutkrtmvrbqednynodyvgmglvtpx
+P4_even	vigenere_beau_partfour	score=3	sha8=ca20b785	mmfjfhckfxzjkrfdijjlpkrqcioezzhexilqubixvkrqupjfkvzfjewxtazxscrrbjcnpaozciganofx
+P4_even	vigenere_beau_thematrixhasyou	score=3	sha8=f2de0ed8	qtscamzbneiidrffanesdnfwuipjifgumuuqgvlngcyljuwshvbdmnjgwywygvbmmccchtualwjapexg
+P4_even	vigenere_beau_yourlastcommand	score=3	sha8=36deb03d	vaihltamslucfqokhdjdkoqbbujlholbczfxhgquswakszdimgiexsqsqavhlcrrxjdnmagunvsfwucr
+P4_even	vigenere_enc_lastwordsbeforearchichoice	score=3	sha8=148d7539	ooedwvjkcewpjotoytpqslrjpwopyijbjvyepsalyqrfshnttnushkqnsojzfnhfcitghqnapzzbueau
+P4_even	vigenere_enc_matrixsumlist	score=3	sha8=5a9db04b	pofbiekbwoacojphyzfakqojflppzgvkkmsotffgujrlirfyqnkhikrlexkqzxlshdpzhwdkhewbktbu
+P4_even	vigenere_enc_partfour	score=3	sha8=9d052092	soddfvmyzdjdaljfwrzbvsxscsuildhehsxwqbgljqrwqnfdufjhbysllajpsaxrdrgzvcajcscmxojl
+P4_even	vigenere_enc_thematrixhasyou	score=3	sha8=a4dbd385	wvqwaajphksctljhovuijvlyusvnujguwegwcvjbuiyrfssqrflfehfuoygqgthmokgonvgklgfmzebu
+P4_odd	base4_perm=('10', '00', '01', '11')_size6_off0	score=3	sha8=ceb59ec1	fNhhYAS5GEQxOEDc3Uiuv2KO+tXDACQLzwr92GcutI7owN1Q+wGVwSAaz/VyFsPTR93jsHAEFimZ87iD
+P4_odd	base4_perm=('10', '01', '00', '11')_size6_off1	score=3	sha8=324659d5	e5JISqNwkiLo8iubmDNdfk099YGuqsK3vrX5kkbdYz3Tq5gL9qkBqMqVv+Bsha+OJ5nPamqihNER73Mu
+P4_odd	base4_perm=('10', '11', '01', '00')_size5_off1	score=3	sha8=f2987aac	qy?nvx?pco?o?g?w?ytcf??fadowifbkph????db?qbdnsofb?sfm?rcxyi?wkt????gacu?vr?dr?bc
